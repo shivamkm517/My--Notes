@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "e132c1535774380b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d8f431b9598aed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26c55262267978a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complete Python/Python Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python Fundamentals"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4babe8645dfe2b39",
+    "type": "split",
+    "children": [
+      {
+        "id": "c03db01a9111b1ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f56a54471dc3ff0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8089dd3b0f96ddb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Definition",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e9fa8a11530fdd41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "765d211f6ebcf93c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc1529d23d3ebf52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e763cdfe3e4c02e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Complete Python/Python Fundamentals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Python Fundamentals"
+            }
+          },
+          {
+            "id": "7378f074e1e3e97f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Complete Python/Python Fundamentals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python Fundamentals"
+            }
+          },
+          {
+            "id": "3470b61b36cc3289",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e624642d0ba9a6ee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6eb5e752e3dd31be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Complete Python/Python Fundamentals.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Python Fundamentals"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "26c55262267978a1",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2026-07-04.md",
+    "Virtual Environment Creation.md",
+    "Complete Python/Modules and Packages.md",
+    "Complete Python/Exception Handling.md",
+    "Complete Python/Files Handling.md",
+    "Logging.md",
+    "Debugging.md",
+    "Complete Python/Python Fundamentals.md",
+    "Package Installer.md",
+    "Testing.md",
+    "Complete Python",
+    "Complete Python/PEP8.md",
+    "Git and Github.md",
+    "Linux and Terminal commands.md",
+    "Complete Python/Advanced Python.md",
+    "Complete Python/Collections.md",
+    "Complete Python/OOP's.md",
+    "Untitled.base",
+    "Welcome.md",
+    "Linux",
+    "Git",
+    "Advanced Python",
+    "Collections",
+    "OOP",
+    "Python Fundamentals"
+  ]
+}

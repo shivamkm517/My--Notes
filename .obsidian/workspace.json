@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fastapi-notes.md",
-                "mode": "source",
-                "source": false
+                "file": "PaperPilot_Ingestion_Embeddings_VectorStore_README.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "fastapi-notes"
+              "title": "PaperPilot_Ingestion_Embeddings_VectorStore_README"
             }
           }
         ],
@@ -205,8 +205,12 @@
   },
   "active": "282c4fe112d9007a",
   "lastOpenFiles": [
-    "NLP WITH MACHINE LEARNING.md",
+    "rag_project_roadmap.md",
+    "genai-llm-engineering-notes.md",
+    "RAG - Retrieval Augmented Generation.md",
+    "RAG",
     "fastapi-notes.md",
+    "NLP WITH MACHINE LEARNING.md",
     "system desing.md",
     "system-design-notes.md",
     "git-github-notes.md",
